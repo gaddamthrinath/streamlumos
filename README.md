@@ -1,6 +1,6 @@
 # StreamLumos
 
-**StreamLumos** is an open-source project that simplifies the creation and deployment of streaming applications. It addresses common challenges in the streaming space, making it easier to build, deploy, and manage scalable, high-performance solutions.
+**StreamLumos** is an open-source project aims to simplifies the creation and deployment of streaming applications. want to addresses common challenges in the streaming space, making it easier to build, deploy, and manage scalable, high-performance solutions.
 
 ## Pain Points Aims Addressed
 
